@@ -1,2 +1,6 @@
 # Folsatu
 Coba
+- tambah 1
+- tambah 2
+- tambah 3
+- tambah 4
